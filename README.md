@@ -81,11 +81,4 @@ Password: VirtualInsanity
 | Douglas/Josuke | Patrocinador                               |
 | Margarina      | Patrocinador                               |
 | N 3 X 0        | Patrocinador                               |
-
- 
- <h2 align="center">💰 Donate</h2>
- 
- Chave **Pix** para quem quiser contribuir e ajudar o painel a se manter ativo:
- ```
-  0018f93e-23c2-4c25-b8e5-c29809786d94
- ```
+|Kali    | Patrocinador  |
